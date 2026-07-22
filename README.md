@@ -16,6 +16,20 @@ Create and manage internal users, guest users, and security groups in Microsoft 
 4. Created an assigned security group named `IT Lab Administrators`.
 5. Set myself as the group owner and added both the internal and guest users as members.
 
+### Lab evidence
+
+#### Internal user creation
+
+![Creating the az104-user1 internal account](images/lab-01/create-internal-user.png)
+
+#### Security group overview
+
+![IT Lab Administrators security group overview](images/lab-01/security-group-overview.png)
+
+#### Assigned group members
+
+![Members assigned to the IT Lab Administrators group](images/lab-01/security-group-members.png)
+
 ### Key takeaways
 
 - A **tenant** is an organization's dedicated Microsoft Entra ID instance containing its users, groups, and other identity objects.
